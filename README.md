@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Analysis – Key Findings (Concise README)
+# 📊 Customer Behavior Analysis – Key Findings
 
 ## 🔎 Project Summary
 
